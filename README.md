@@ -1,6 +1,6 @@
 ## Vivek Rajkumar
 
-Hi! I am a recent graduate of the University of Pittsburgh currently interested in cognitive science/AI PhD programs as well as related industry jobs.
+Hi! I am a recent graduate of the University of Pittsburgh (Pitt) currently interested in cognitive science/AI PhD programs as well as related industry jobs.
 
 <!--
 **vrajkumar128/vrajkumar128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
